@@ -1,0 +1,1 @@
+window.recipientSettings={"account_ids": ["account1", "account2", "account3"], "storage_key": "EM-friend", "drive_folder_id": "1lq_Clb0PeNAcgX0ssG98RZ9fn_fOW60a", "account_folders": {"account1": "1lKt-4tujlvgd6C45cp9wxjzj8YT4RURj", "account2": "1pB-DafLKYrOTvdGJDmqft4sz66MADuU2", "account3": "1liBTtmFnKd8hyXCIQDIRZVrrHn-O_0_E"}};
